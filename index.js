@@ -5,6 +5,7 @@ function isPalindrome(word) {
     const j = word.length - 1 - i;
     // if any letters don't match, return false
     if (word[i] !== word[j]) return false;
+    //racecar
   }
 
   // return true
